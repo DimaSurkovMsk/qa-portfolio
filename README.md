@@ -103,9 +103,9 @@
 
 ## 📫 Контакты
 
-- GitHub: https://github.com/DimaSurkovMsk/qa-portfolio 
-Dsurkov1993@icloud.com
-Telegram @Tycho1Brahe
+- GitHub: https://github.com/DimaSurkovMsk/qa-portfolio
+- Dsurkov1993@icloud.com
+- Telegram @Tycho1Brahe
 ---
 
 ⭐ Открыт к предложениям и новым проектам
